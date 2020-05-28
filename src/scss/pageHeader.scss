@@ -1,0 +1,15 @@
+.pageHeader {
+  align-items: center;
+  display: flex;
+  margin: 30px 0 0 0;
+
+  // border: 1px solid red;
+}
+
+.pageHeader * {
+  font-size: 16px;
+}
+
+.pageHeader .logo {
+  margin-right: 207px;
+}

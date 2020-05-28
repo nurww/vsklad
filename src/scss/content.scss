@@ -1,0 +1,39 @@
+.content {
+  margin: 123px 0 0 0;
+  width: 665px;
+
+  // border: 1px solid red;
+}
+
+.content .content__title {
+  color: #fff;
+  font-size: 34px;
+}
+
+.content .content__shortDescription {
+  color: #fff;
+  font-size: 22px;
+  margin: 22px 0 0 0;
+}
+
+.content .content__fullDescription {
+  margin: 15px 0 0 0;
+  font-size: 18px;
+}
+
+.content__fullDescription span {
+  color: #F15713;
+}
+
+.content .btn {
+  color: #fff;
+  font-size: 16px;
+  margin: 33px 0 0 0;
+  padding: 13px 40px;
+}
+
+.content .btn__highlight {
+  padding: 13px 15px;
+  margin: 0 25px 0 0;
+}
+
